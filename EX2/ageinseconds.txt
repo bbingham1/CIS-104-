@@ -1,0 +1,19 @@
+integer ageinyears
+
+integer ageinseconds
+
+
+
+Put "enter your age in years. \n" to output
+
+
+
+ageinyears = Get next input
+
+ageinseconds = ageinyears * 31556900
+
+
+
+Put "your age in seconds = " to output
+
+Put ageinseconds to output
